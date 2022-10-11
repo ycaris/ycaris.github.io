@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Experience"
+title: "Research Experience"
 permalink: /experience/
 author_profile: true
 ---
 
 {% include base_path %}
----
-Research Experience
-======
 * 2021.09 - Present: Undergraduate Research Intern
   * Medical-imaging Analysis and Statistical Interpretation Lab
   * Projects included: abdominal imaging and neuroimaging analysis; machine learning algorithms 
