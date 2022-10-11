@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+---
 Research Experience
 ======
 * 2021.09 - Present: Undergraduate Research Intern
