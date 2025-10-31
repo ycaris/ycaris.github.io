@@ -9,9 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yinchi Zhou, currently Ph.D student in Biomedical Engineering at Yale University. Previously, I obtained my bachelor degree in Computer Science at Vanderbilt University. I am from Beijing, China. I'm passionate about the interdisciplinary field of technology and healthcare. My research focuses on the application of machine learning algorithm to process medical images and medical texts. I am currently working with Dr. Chi Liu and Dr. Nicha Dvornek at Yale University. In my undergrad, I also worked in Dr. Bennett Landman's lab. 
+Hello! I’m Yinchi Zhou, a Ph.D. student in Biomedical Engineering at Yale University, working with Dr. Chi Liu and Dr. Nicha Dvornek. My research focuses on developing machine learning algorithms for the analysis of medical images and clinical text, aiming to improve diagnostic accuracy and advance healthcare through AI-driven innovations.
 
+Before joining Yale, I received my Bachelor’s degree in Computer Science from Vanderbilt University, where I conducted research in Dr. Bennett Landman’s lab on medical image analysis.
 
-I am fluent in English and Chinese, and I also know some basic French. In my free time, I love playing tennis and golf, as well as snowboarding. I am also a fun of music, and I play the piano and the flute. You can also find me at Kpop concerts! 
+I am originally from Beijing, China, and I am fluent in English and Chinese, with a basic understanding of French. Outside of research, I enjoy playing tennis and golf, as well as snowboarding during the winter season. Music is also a big part of my life—I play the piano and flute. You can also see me in Kpop concerts!
 
 ![Me at White Mountain, New Hamsphire, USA](/images/person_photo.png)
